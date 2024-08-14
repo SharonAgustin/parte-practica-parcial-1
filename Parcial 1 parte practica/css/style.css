@@ -1,0 +1,46 @@
+header{
+    background-color: rgb(166, 243, 89);
+    border: 0.5px, solid, rgb(4, 87, 4);
+    width: 100%;
+    height: 150px;
+}
+nav{
+    background-color: rgb(246, 246, 0);
+    border: 1, solid, green;
+    margin-left: 5%;
+    margin-top: 85px;
+    width: 90%;
+    height: 50px;
+}
+
+main{
+    background-color: rgb(10, 10, 255);
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+
+section{
+    background-color: rgb(167, 255, 226);
+    position: absolute;
+    margin-top: -90px;
+    height: 230px;
+    margin-left: 0.3%;
+    width: 80%;
+}
+
+aside{
+    background-color: rgb(119, 244, 244);
+    position: absolute;
+    margin-top: -90px;
+    height: 230px;
+    margin-left: 81%;
+    width: 18.5%;
+}
+
+footer{
+    background-color: coral;
+    border: 0.5px, solid, orangered;
+    width: 100%;
+    height: 50px;
+}
